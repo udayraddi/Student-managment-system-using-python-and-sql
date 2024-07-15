@@ -13,12 +13,15 @@ SQL Database (SQLite)
 
 ## 1. Run the application:
 
-python main.py
+```python main.py```
 
 
 ## 2.Perform CRUD operations:
 
 Create: Add new students, courses, and transactions.
+
 Read: View student records, course details, and transaction history.
+
 Update: Modify existing records in the database.
+
 Delete: Remove records from the database.
